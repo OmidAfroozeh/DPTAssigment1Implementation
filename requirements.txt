@@ -6,10 +6,10 @@ torch>=1.8.0
 tqdm>=4.64.1
 matplotlib>=3.7.0
 adversarial-robustness-toolbox>=1.11.0
+tabulate>=0.9.0
 
 # testing
 pytest==5.4.2
-tensorflow==2.8.3
 xgboost==1.7.2
 Pillow==9.3.0
 sortedcontainers==2.4.0
