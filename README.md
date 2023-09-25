@@ -37,14 +37,14 @@ Implementation:`dataprotection_features/anonymize_module.py`
 The repository includes functionalities for calculating k-anonymity and l-diversity, as well as pseudonymization for Personally Identifiable Information (PII) data using SHA-256 hashing.  
   
 Implementation of metric calculation:`dataprotection_features/calcmetric.py`  
-Implementation of pseudonymization:`dataprotection_features/pseudo.py`  
+Implementation of pseudonymization:`dataprotection_features/pseudo.py`    
   
 ## Usage  
 ```  
 pip3 install -r requirements.txt
  ```  
 There are several jupyter notebooks available in `dataprotection_features` directory showcasing usage of the features.  
-Anonymization (k-anonymity, l-diversity, t-closeness, and calculation of these metrics): `dataprotection_features/adult.ipynb`, `dataprotection_features/diabetes.ipynb`
+Anonymization (k-anonymity, l-diversity, t-closeness, and calculation of these metrics): `dataprotection_features/adult.ipynb`, `dataprotection_features/diabetes.ipynb`  
 Pseudonymization: `dataprotection_features/pseudo.ipynb`
   
 ## References  
