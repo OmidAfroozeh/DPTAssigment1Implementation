@@ -54,3 +54,4 @@ Pseudonymization: `dataprotection_features/pseudo.ipynb`
 - Latanya Sweeney. 2002. K-anonymity: a model for protecting privacy. Int. J. Uncertain. Fuzziness Knowl.-Based Syst. 10, 5 (October 2002), 557–570. https://doi.org/10.1142/S0218488502001648  
 - A. Machanavajjhala, J. Gehrke, D. Kifer and M. Venkitasubramaniam, "L-diversity: privacy beyond k-anonymity,"  _22nd International Conference on Data Engineering (ICDE'06)_, Atlanta, GA, USA, 2006, pp. 24-24, doi: 10.1109/ICDE.2006.1.  
 - K. LeFevre, D. J. DeWitt and R. Ramakrishnan, "Mondrian Multidimensional K-Anonymity,"  _22nd International Conference on Data Engineering (ICDE'06)_, Atlanta, GA, USA, 2006, pp. 25-25, doi: 10.1109/ICDE.2006.101.
+- Abigail Goldsteen, Ola Saadi, Ron Shmelkin, Shlomit Shachor, Natalia Razinkov, "AI privacy toolkit", SoftwareX, Volume 22, 2023, 101352, ISSN 2352-7110, https://doi.org/10.1016/j.softx.2023.101352.
